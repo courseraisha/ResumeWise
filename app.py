@@ -1,5 +1,4 @@
 import streamlit as st
-import time
 
 # Set page config
 st.set_page_config(layout="wide", page_title="ResumeWise")
